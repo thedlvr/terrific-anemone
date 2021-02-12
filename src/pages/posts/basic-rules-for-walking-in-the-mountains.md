@@ -9,6 +9,7 @@ thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 template: post
 subtitle: In Eighty seconds
+thumb_img_alt: Oh the things you'll see
 ---
 
 ![Hiking](/images/2.jpg)
