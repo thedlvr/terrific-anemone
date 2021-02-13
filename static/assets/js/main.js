@@ -47,4 +47,4 @@ document.querySelector('#to-top').addEventListener('click', function (e) {
 });
 
 };
-np
+npm run
