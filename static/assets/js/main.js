@@ -47,4 +47,3 @@ document.querySelector('#to-top').addEventListener('click', function (e) {
 });
 
 };
-git clone https://github.com/aws-samples/amazon-ivs-player-web-sample.git
