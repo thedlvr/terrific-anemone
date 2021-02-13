@@ -31,4 +31,3 @@ HTML.propTypes = {
   body: PropTypes.string,
   postBodyComponents: PropTypes.array,
 }
-git clone https://github.com/aws-samples/amazon-ivs-player-web-sample.git
